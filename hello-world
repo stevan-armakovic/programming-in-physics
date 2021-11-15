@@ -1,0 +1,8 @@
+a = 6
+b = 'Ovo je jedan obican string'
+c = [1,2,3]
+
+print('Zdravo Svete')
+print(a)
+print(b)
+print(c)
